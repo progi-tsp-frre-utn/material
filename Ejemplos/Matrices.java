@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Matriz {
+public class Matrices {
 
     public static void main(String[] args) {
 
